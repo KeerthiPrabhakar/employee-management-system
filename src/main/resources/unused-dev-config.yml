@@ -1,0 +1,14 @@
+# Unused YAML config - should be deleted
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: user123
+    password: User@123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    defer-datasource-initialization: true
+  h2:
+    console:
+      enabled: true
