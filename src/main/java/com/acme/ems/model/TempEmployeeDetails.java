@@ -3,7 +3,7 @@ package com.acme.ems.model;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
-// Temporary model - should be deleted
+
 public class TempEmployeeDetails {
 
     @Id

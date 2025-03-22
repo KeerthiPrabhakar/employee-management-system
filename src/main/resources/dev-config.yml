@@ -1,4 +1,3 @@
-# Unused YAML config - should be deleted
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
