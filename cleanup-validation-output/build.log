@@ -1,0 +1,56 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------------< [0;36mcom.example:demo[0;1m >--------------------------[m
+[[1;34mINFO[m] [1mBuilding employee-management-system 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m]   from pom.xml
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-clean-plugin/3.3.2/maven-clean-plugin-3.3.2.pom
+Progress (1): 2.8/5.3 kBProgress (1): 5.3 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-clean-plugin/3.3.2/maven-clean-plugin-3.3.2.pom[90m (5.3 kB at 7.0 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-plugins/40/maven-plugins-40.pom
+Progress (1): 2.8/8.1 kBProgress (1): 5.5/8.1 kBProgress (1): 8.1 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-plugins/40/maven-plugins-40.pom[90m (8.1 kB at 91 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/maven-parent/40/maven-parent-40.pom
+Progress (1): 2.8/49 kBProgress (1): 5.5/49 kBProgress (1): 8.3/49 kBProgress (1): 11/49 kB Progress (1): 14/49 kBProgress (1): 17/49 kBProgress (1): 19/49 kBProgress (1): 22/49 kBProgress (1): 25/49 kBProgress (1): 28/49 kBProgress (1): 30/49 kBProgress (1): 33/49 kBProgress (1): 36/49 kBProgress (1): 39/49 kBProgress (1): 41/49 kBProgress (1): 44/49 kBProgress (1): 47/49 kBProgress (1): 49 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/maven-parent/40/maven-parent-40.pom[90m (49 kB at 411 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.pom
+Progress (1): 4.1/5.5 kBProgress (1): 5.5 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.pom[90m (5.5 kB at 69 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/surefire/surefire/3.1.2/surefire-3.1.2.pom
+Progress (1): 4.1/22 kBProgress (1): 8.2/22 kBProgress (1): 12/22 kB Progress (1): 16/22 kBProgress (1): 20/22 kBProgress (1): 22 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/surefire/surefire/3.1.2/surefire-3.1.2.pom[90m (22 kB at 266 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom
+Progress (1): 4.1/6.8 kBProgress (1): 6.8 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom[90m (6.8 kB at 95 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-plugins/37/maven-plugins-37.pom
+Progress (1): 4.1/9.9 kBProgress (1): 8.2/9.9 kBProgress (1): 9.9 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-plugins/37/maven-plugins-37.pom[90m (9.9 kB at 125 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/maven-parent/37/maven-parent-37.pom
+Progress (1): 4.1/46 kBProgress (1): 8.2/46 kBProgress (1): 12/46 kB Progress (1): 16/46 kBProgress (1): 20/46 kBProgress (1): 24/46 kBProgress (1): 28/46 kBProgress (1): 32/46 kBProgress (1): 36/46 kBProgress (1): 40/46 kBProgress (1): 45/46 kBProgress (1): 46 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/maven-parent/37/maven-parent-37.pom[90m (46 kB at 537 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/apache/27/apache-27.pom
+Progress (1): 4.1/20 kBProgress (1): 8.2/20 kBProgress (1): 12/20 kB Progress (1): 16/20 kBProgress (1): 20 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/apache/27/apache-27.pom[90m (20 kB at 258 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-install-plugin/3.1.1/maven-install-plugin-3.1.1.pom
+Progress (1): 4.1/7.8 kBProgress (1): 7.8 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-install-plugin/3.1.1/maven-install-plugin-3.1.1.pom[90m (7.8 kB at 107 kB/s)[0m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mclean:3.3.2:clean[m [1m(default-clean)[m @ [36mdemo[0;1m ---[m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.pom
+Progress (1): 4.1/8.7 kBProgress (1): 8.2/8.7 kBProgress (1): 8.7 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.pom[90m (8.7 kB at 120 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus/13/plexus-13.pom
+Progress (1): 4.1/27 kBProgress (1): 8.2/27 kBProgress (1): 12/27 kB Progress (1): 16/27 kBProgress (1): 20/27 kBProgress (1): 25/27 kBProgress (1): 27 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus/13/plexus-13.pom[90m (27 kB at 360 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar
+Progress (1): 4.1/192 kBProgress (1): 8.2/192 kBProgress (1): 12/192 kB Progress (1): 16/192 kBProgress (1): 20/192 kBProgress (1): 25/192 kBProgress (1): 29/192 kBProgress (1): 33/192 kBProgress (1): 37/192 kBProgress (1): 41/192 kBProgress (1): 45/192 kBProgress (1): 49/192 kBProgress (1): 53/192 kBProgress (1): 57/192 kBProgress (1): 61/192 kBProgress (1): 65/192 kBProgress (1): 69/192 kBProgress (1): 73/192 kBProgress (1): 77/192 kBProgress (1): 81/192 kBProgress (1): 85/192 kBProgress (1): 89/192 kBProgress (1): 93/192 kBProgress (1): 97/192 kBProgress (1): 101/192 kBProgress (1): 106/192 kBProgress (1): 110/192 kBProgress (1): 114/192 kBProgress (1): 118/192 kBProgress (1): 122/192 kBProgress (1): 126/192 kBProgress (1): 130/192 kBProgress (1): 134/192 kBProgress (1): 138/192 kBProgress (1): 142/192 kBProgress (1): 147/192 kBProgress (1): 151/192 kBProgress (1): 155/192 kBProgress (1): 159/192 kBProgress (1): 163/192 kBProgress (1): 167/192 kBProgress (1): 171/192 kBProgress (1): 175/192 kBProgress (1): 179/192 kBProgress (1): 183/192 kBProgress (1): 187/192 kBProgress (1): 192/192 kBProgress (1): 192 kB                        Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar[90m (192 kB at 1.7 MB/s)[0m
+[[1;34mINFO[m] Deleting /home/kali/projects/employee-management-system/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mresources:3.3.1:resources[m [1m(default-resources)[m @ [36mdemo[0;1m ---[m
+[[1;34mINFO[m] Copying 2 resources from src/main/resources to target/classes
+[[1;34mINFO[m] Copying 3 resources from src/main/resources to target/classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mcompiler:3.11.0:compile[m [1m(default-compile)[m @ [36mdemo[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module! :source
+[[1;34mINFO[m] Compiling 11 source files with javac [debug release 21] to target/classes
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  4.584 s
+[[1;34mINFO[m] Finished at: 2025-03-22T14:06:30Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;31mERROR[m] Failed to execute goal [32morg.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile[m [1m(default-compile)[m on project [36mdemo[m: [1;31mFatal error compiling[m: error: release version 21 not supported -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException

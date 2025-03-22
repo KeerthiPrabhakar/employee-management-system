@@ -1,0 +1,8 @@
+{
+  "build": false,
+  "tests": false,
+  "endpoint": false,
+  "filesOk": false,
+  "configOk": true,
+  "explanationOk": false
+}

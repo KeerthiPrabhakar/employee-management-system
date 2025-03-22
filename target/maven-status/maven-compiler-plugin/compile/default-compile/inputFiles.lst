@@ -9,4 +9,3 @@
 /home/kali/projects/employee-management-system/src/main/java/com/acme/ems/exception/CustomExceptionHandler.java
 /home/kali/projects/employee-management-system/src/main/java/com/acme/ems/logging/EmployeeAuditLogger.java
 /home/kali/projects/employee-management-system/src/main/java/com/acme/ems/controller/PayrollController.java
-/home/kali/projects/employee-management-system/src/main/java/com/acme/ems/model/TempEmployeeDetails.java
