@@ -1,4 +1,4 @@
 package com.acme.ems;
 
-// Test for unused PayrollService - should be deleted
+@Test
 public class PayrollServiceTest {}

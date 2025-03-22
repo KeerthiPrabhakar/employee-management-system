@@ -1,4 +1,4 @@
 package com.acme.ems.controller;
 
-// Legacy controller - should be deleted
+@RestController
 public class OldPayrollController {}
