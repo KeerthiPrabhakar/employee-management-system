@@ -1,0 +1,21 @@
+Cleanup Summary:
+
+Files removed from the codebase:
+1. src/main/java/com/acme/ems/model/TempEmployeeDetails.java
+   - Reason: Not used by any active class, contains only stub code with no actual implementation in use
+
+2. src/main/resources/dev-config.yml
+   - Reason: Not imported by any active profile, redundant with application.properties
+
+3. target/classes/unused-dev-config.yml
+   - Reason: Explicitly marked as unused, not referenced anywhere in the codebase
+
+Target cleanup:
+- Removed stale class files (OldPayrollController.class, PayrollService.class, TempEmployee.class)
+- These appear to be from previous refactoring and are no longer needed
+
+All core employee management functionality remains intact including:
+- Employee creation, reading, updating, and deletion
+- Payroll processing
+- Employee archiving and cleanup jobs
+- Audit logging
